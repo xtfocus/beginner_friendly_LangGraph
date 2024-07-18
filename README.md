@@ -1,6 +1,1 @@
-In this branch, we goes through the core components in LangGraph:
-- graph
-- node
-- state
-
-
+In this branch, we see how LangGraph implement routing, just like if-else in programming
