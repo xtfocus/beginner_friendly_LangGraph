@@ -1,0 +1,16 @@
+# Python cache files (recursively)
+**/__pycache__/
+
+# Environment files (recursively)
+**/.env
+**/.env.*
+
+# Jupyter Notebook (recursively)
+**/.ipynb_checkpoints
+
+# pytest
+**/.pytest_cache/
+
+# Logs
+**/*.log
+
